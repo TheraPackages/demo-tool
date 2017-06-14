@@ -1,0 +1,19 @@
+{
+  "name": "demo-tool",
+  "version": "1.0.0",
+  "description": "demo tool api for any project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "weex",
+    "demo-tool"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:TheraPackages/demo-tool.git"
+  },
+  "author": "dutlxq2014",
+  "license": "ISC"
+}
