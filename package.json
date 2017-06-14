@@ -1,6 +1,6 @@
 {
   "name": "demo-tool",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "demo tool api for any project",
   "main": "index.js",
   "scripts": {
